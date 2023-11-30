@@ -24,3 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisheksanj&show_icons=true&locale=en" alt="abhisheksanj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheksanj&" alt="abhisheksanj" /></p>
+
+## snake eating my contribution graph
+<img src="https://raw.githubusercontent.com/Abhisheksanj/Abhisheksanj/output/snake.svg" alt="Snake animation" />
+
