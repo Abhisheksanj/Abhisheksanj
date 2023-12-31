@@ -15,7 +15,7 @@
 [+] Connected to Abhishek.git  <br/>
 
 <h1 align="center">Hi 👋, I'm Abhishek Sanjeev</h1>
-<h3 align="center">A passionate frontend developer from India and passionate about digital forensicsic</h3>
+<h3 align="center">A passionate frontend developer from India and passionate about digital forensic </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheksanj&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheksanj" /> </p>
 
@@ -23,7 +23,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@abhisheksanjeevnigam2002](https://medium.com/@abhisheksanjeevnigam2002)
 
-- 📫 How to reach me **Abhisheksanjeevnigam2002@gmail.com**
+- 📫 How to reach me **Abhisheksanjeevnigam2002@gmail.com or Abhisheksanjeev2020@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
