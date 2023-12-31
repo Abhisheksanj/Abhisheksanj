@@ -1,3 +1,22 @@
+# KOVID-TIWARI
+
+<div align="center">
+  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
+    
+  ### Hello World! :computer:
+
+[+] Connecting to K-O-V-I-D.git <br/>
+[+] Waiting for Connection..... <br/>
+[+] Connected to K-O-V-I-D.git as KOVID <br/>
+
+"In the realm of full stack mastery, I wear the hats of both creator and guardian. I choreograph elegance and safeguard systems with a cyber sentinel's watchful eye. My code is not just a language; it's a shield, protecting the digital frontier. Step into a world where every function is a shield, and every design choice is a step towards a secure tomorrow."
+
+
 <h1 align="center">Hi 👋, I'm Abhishek Sanjeev</h1>
 <h3 align="center">A passionate frontend developer from India and passionate about digital forensicsic</h3>
 
